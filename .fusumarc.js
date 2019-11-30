@@ -20,9 +20,14 @@ module.exports = {
       plugins: ['line-numbers'],
       theme: 'tomorrow',
     },
+    chart: false,
+    math: false,
   },
   extends: {
     js: '',
-    css: '',
+    css: './slides/styles.css',
+  },
+  build: {
+    ssr: true,
   },
 };

@@ -10,6 +10,7 @@
   "[scss]": { "editor.formatOnSave": true },
   "[json]": { "editor.formatOnSave": true },
   "[yaml]": { "editor.formatOnSave": true },
-  "[markdown]": { "editor.formatOnSave": true }
+  "[markdown]": { "editor.formatOnSave": true },
+  "[mdx]": { "editor.formatOnSave": true }
 }
 ```
